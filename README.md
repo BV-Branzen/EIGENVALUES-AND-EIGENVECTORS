@@ -1,8 +1,8 @@
 # EIGENVALUES-AND-EIGENVECTORS
 
 ~~~
-Nmae: Bala Surya S
-Register No: 212225100003
+Nmae: Branzen B V
+Register No: 212225100005
 ~~~
 
 ## Aim:
